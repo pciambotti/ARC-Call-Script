@@ -1,0 +1,383 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+html{
+    background-image: url('../Images/stone-grayish-background.jpg');
+}
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    /*background-color: lightgray;*/
+    background-image: url('../Images/stone-grayish-background.jpg');
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    /*padding-left: 15px;
+    padding-right: 15px;*/
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: white;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+/*input,
+select,
+textarea {
+    max-width: 680px;
+}*/
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+    .body-content {
+        /*padding: 0;*/
+    }
+}
+@media (min-width: 768px){
+    .nlpadding-md{
+        padding-left: 0px;
+    }
+}
+
+/* Custom CSS by Pehuen */
+.custom-form div{
+   /*padding-left: 5px !important;
+   padding-right: 5px !important;*/
+}
+.rowsectionlast, .rowmb{
+    margin-bottom: 15px;
+}
+
+.panel-heading-close{
+    display: inline-block;
+    float: right;
+    margin-top: -6px;
+}
+.standalone-addon{
+    border-bottom-left-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+    border-top-left-radius: 4px !important;
+    border-top-right-radius: 4px !important;
+    border:1px solid #ccc !important;
+    /*border-bottom: none !important;*/
+}
+.lefttext-addon
+,.input-group-addon{
+    text-align: left;
+    /* We change all text to be left by default - this is standard for our form */
+}
+.input-group-addon.text-right{
+    text-align: right !important;
+}
+
+.input-group select option{
+    background-color: whitesmoke;
+}
+.input-group, 
+.fullwidth-group{
+    width: 100%;
+    /* Need to ensure that forcing 100% width on input-group doesn't screw with things*/
+}
+.textcenter{
+    text-align: center;
+}
+
+.textwrap-addon{
+    white-space: normal;
+    /* Since we wrap - we need to care for the bottom and left border*/
+    border-right:1px solid #ccc !important;
+    border-bottom-right-radius: 4px !important;
+}
+@media (max-width: 600px) {
+    .textwrap-addon-sm{
+        white-space: normal;
+        /* Since we wrap - we need to care for the bottom and left border*/
+        border-right:1px solid #ccc !important;
+        border-bottom-right-radius: 4px !important;
+    }
+    .maxwidth-addon-sm{
+        width: 75%;
+    }
+}
+.textwrap-control{
+    /* Since the Addon Element is adding a border to the right - we remove control left border*/
+    border-left: 0px;
+}
+/* Width Controls */
+.minwidth-addon{
+    width: 25%;
+}
+.minwidth175-addon{
+    min-width: 175px;
+}
+.minwidth125-addon{
+    min-width: 125px;
+}
+.maxwidth-addon{
+    width: 75%;
+}
+.maxwidth-control{
+    width: 25%;
+}
+
+.halfwidth-addon{
+    width: 50%;
+}
+.halfwidth-control{
+    width: 50%;
+}
+/* Width Controls */
+
+.textarea-addon{
+    border-bottom-left-radius: 0px !important;
+    border-top-right-radius: 4px !important;
+    border:1px solid #ccc !important;
+    border-bottom: none !important;
+}
+.help-block{
+    margin-left: 5px;
+}
+.panel-minmargin{
+    padding: 5px;
+}
+.panel-nomargin{
+    padding: 0px;
+}
+/*
+textarea{
+  border-top-left-radius:0px !important;
+  border-top-right-radius:0px !important;
+}
+*/
+.error{
+    color: #b94a48;
+    /*position: absolute;
+    z-index: 1;
+    right: 0px;
+    top: 5px;*/
+}
+.error.help-block{
+    margin-top: 0px;
+}
+.progress-bar-text{
+    display: table-cell;
+    font-size: 20px;
+    text-align: left;
+    vertical-align: middle;
+    height: 40px;
+    padding-left: 5px;
+    white-space: nowrap;
+    color: black;
+}
+.progress-bar-text-grid{
+    display: table-cell;
+    font-size: 14px;
+    text-align: left;
+    vertical-align: middle;
+    height: 20px;
+    padding-left: 5px;
+    white-space: nowrap;
+    color: black;
+}
+
+.radio-button-list label{
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.glyphicon-float{
+    position: absolute;
+    z-index: 1;
+    right: 15px; /* We do 15 due to drop down lists tiny arrow */
+    top: 50%;
+    transform: translateY(-50%);
+}
+.has-error .glyphicon-float{
+    color: #b94a48;
+}
+.has-success .glyphicon-float{
+    color: #468847;
+}
+
+.title-main{
+    position: relative;
+}
+.title-info{
+    position: absolute;
+    z-index: 1;
+    right: 10px;
+    top: 25%;
+    margin: 0px;
+    padding: 0px;
+}
+.title-info ul{
+    margin: 0px;
+    padding: 0px;
+}
+.title-info li{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.title-info li div{
+    display: inline-block;
+    width: 100px;
+}
+@media (max-width: 992px) {
+    .title-info{
+        display: block;
+        position: initial;
+        z-index: initial;
+        right: initial;
+        top: initial;
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: 23px;
+    }
+    .title-info ul{
+        margin: 0px;
+        padding: 0px;
+    }
+    .title-info li{
+        float: left;
+        margin: 0px;
+        padding: 0px;
+        margin-right: 10px;
+    }
+}
+.navbar-brand{
+    padding: 0px;
+}
+.required:before{
+    content:"*";
+    position: absolute;
+    left: 5px;
+}
+.pwstrength_viewport_progress .progress{
+    height: 34px;
+    margin-bottom: 0px;
+}
+.pwstrength_viewport_progress span{
+    vertical-align: middle;
+    line-height: 34px;
+}
+.form-control.normal{
+    background-color: transparent;
+}
+.strong{
+    font-weight: bold;
+}
+.mbnone{
+    margin-bottom: 0px;
+}
+.red{
+    color: red;
+}
+.forcewrap { 
+   white-space: pre-wrap;      /* CSS3 */   
+   white-space: -moz-pre-wrap; /* Firefox */    
+   white-space: -pre-wrap;     /* Opera <7 */   
+   white-space: -o-pre-wrap;   /* Opera 7 */    
+   word-wrap: break-word;      /* IE */
+}
+.gvRowEdit input{
+    max-width: 50px;
+}
+.gvRowEdit select{
+    max-width: 75px;
+}
+.gvRowEdit-md input{
+    max-width: 125px;
+}
+.gvRowEdit-md table{
+    width: 100px;
+}
+.gvRowEdit-md table> tbody > tr > td{
+    border: none;
+}
+.gvRowEdit-md select{
+    max-width: 125px;
+}
+.gvRowEdit-sm input{
+    max-width: 75px;
+}
+.gvRowEdit-lg input{
+    max-width: 225px;
+}
+/* Modal */
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 800px;
+    }
+}
+
+.modalBackground2
+{
+    background-color: Black;
+    filter: alpha(opacity=40);
+    opacity: 0.4;
+}
+.modal-content2{
+    width:inherit;
+    height:inherit;
+    /* To center horizontally */
+    margin: 0 auto;
+}
+.modalPopup
+{
+    background-color: #FFFFFF;
+    width: 300px;
+    border: 3px solid #0DA9D0;
+}
+.modalPopup .header
+{
+    background-color: #2FBDF1;
+    height: 30px;
+    color: White;
+    line-height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.modalPopup .body
+{
+    min-height: 50px;
+    line-height: 30px;
+    text-align: center;
+    padding:5px
+}
+.modalPopup .footer
+{
+    padding: 3px;
+}
+.modalPopup .button
+{
+    height: 23px;
+    color: White;
+    line-height: 23px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #9F9F9F;
+    border: 1px solid #5C5C5C;
+}
+.modalPopup td
+{
+    text-align:left;
+}
+#searchclear {
+    position: absolute;
+    right: 5px;
+    top: 0;
+    bottom: 0;
+    height: 14px;
+    margin: auto;
+    font-size: 14px;
+    cursor: pointer;
+    color: #ccc;
+}
+.results {
+    overflow:auto;
+}
+ /* Modal */
+/* Custom CSS by Pehuen */

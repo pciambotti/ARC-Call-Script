@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<callcenterlist>
+  <callcenters>
+    <callcenter id="00001" name="Pinnacle BPO" />
+    <callcenter id="00002" name="Connexions BPO" />
+    <callcenter id="00003" name="Capatus Wealth Management Private Ltd" />
+    <callcenter id="00004" name="Customers Solution" />
+    <callcenter id="00005" name="Golden Eye Techno Solutions" />
+    <callcenter id="00006" name="Callowbent Info Solutions Pvt. Ltd" />
+    <callcenter id="00007" name="BSD Business Solutions" />
+    <callcenter id="00008" name="International Magnified Services" />
+    <callcenter id="00009" name="Olygex Solutiions Private Ltd" />
+    <callcenter id="00010" name="Elim Services" />
+    <callcenter id="00011" name="Evolve Technologies" />
+    <callcenter id="00012" name="Chaturthi Global Solutions" />
+    <callcenter id="00013" name="Campaign Contractor" />
+    <callcenter id="00014" name="Ratnam Smart Business" />
+    <callcenter id="00015" name="Call Zone" />
+    <callcenter id="00016" name="MS Enterprises" />
+    <callcenter id="00017" name="Ospea Business Solution" />
+    <callcenter id="00018" name="Smoodge" />
+    <callcenter id="00019" name="Wizsoft Tehnologies" />
+    <callcenter id="00020" name="Macias-Sy Marketing Solutions Services " />
+    <callcenter id="00021" name="Fusion Global Services" />
+    <callcenter id="00022" name="Quest Techno Solutions" />
+    <callcenter id="00023" name="Verrill Business Solutions Pvt Ltd" />
+    <callcenter id="00024" name="Mark Anthony S. Capuno" />
+    <callcenter id="00025" name="Dosys" />
+    <callcenter id="00026" name="Offise Pros" />
+    <callcenter id="00027" name="360 Digital Marketing" />
+    <callcenter id="00028" name="Regear Infotech" />
+    <callcenter id="00029" name="K2C Outsourcing PVT Ltd" />
+    <callcenter id="00030" name="Puranjay Infosol" />
+    <callcenter id="00031" name="Optimus Ideas LLC" />
+    <callcenter id="00032" name="A.R Square International" />
+    <callcenter id="00033" name="True Alliance Pros" />
+    <callcenter id="00034" name="" />
+    <callcenter id="00035" name="ABC Marketing " />
+    <callcenter id="00036" name="Vermati" />
+    <callcenter id="00037" name="" />
+    <callcenter id="00038" name="IQBRI Telecom Private Limited" />
+    <callcenter id="00039" name="Ace Infomatics pvt ltd" />
+    <callcenter id="00040" name="DemandBay" />
+    <callcenter id="00041" name="Payment Mantra" />
+    <callcenter id="00042" name="JPL international" />
+    <callcenter id="00043" name="International Group Call" />
+    <callcenter id="00044" name="Proelink Business Solutions" />
+    <callcenter id="00045" name="SRI Kandeval Traders" />
+    <callcenter id="00046" name="Demand Drive Solutions" />
+    <callcenter id="00047" name="Xipna " />
+    <callcenter id="00048" name="Glodat Solutions" />
+    <callcenter id="00049" name="Mountech Communications Private Limited" />
+    <callcenter id="00050" name="Solarib Salesforce" />
+    <callcenter id="00051" name="Banka Technical Services" />
+    <callcenter id="00052" name="Sumit Kumar" />
+    <callcenter id="00053" name="Intellipaat" />
+    <callcenter id="00054" name="Global Matrix Pvt Ltd" />
+    <callcenter id="00055" name="00055" />
+    <callcenter id="00056" name="00056" />
+    <callcenter id="00057" name="00057" />
+    <callcenter id="00058" name="00058" />
+    <callcenter id="00059" name="00059" />
+    <callcenter id="00060" name="00060" />
+    <callcenter id="00061" name="00061" />
+    <callcenter id="00062" name="00062" />
+    <callcenter id="00063" name="00063" />
+    <callcenter id="00064" name="00064" />
+    <callcenter id="00065" name="00065" />
+    <callcenter id="00066" name="00066" />
+    <callcenter id="00067" name="00067" />
+    <callcenter id="00068" name="00068" />
+    <callcenter id="00069" name="00069" />
+    <callcenter id="00070" name="00070" />
+    <callcenter id="00071" name="00071" />
+    <callcenter id="00072" name="00072" />
+    <callcenter id="00073" name="00073" />
+    <callcenter id="00074" name="00074" />
+    <callcenter id="00075" name="00075" />
+    <callcenter id="00076" name="00076" />
+    <callcenter id="00077" name="00077" />
+    <callcenter id="00078" name="00078" />
+    <callcenter id="00079" name="00079" />
+    <callcenter id="00080" name="00080" />
+    <callcenter id="00081" name="00081" />
+    <callcenter id="00082" name="00082" />
+    <callcenter id="00083" name="00083" />
+    <callcenter id="00084" name="00084" />
+    <callcenter id="00085" name="00085" />
+    <callcenter id="00086" name="00086" />
+    <callcenter id="00087" name="00087" />
+    <callcenter id="00088" name="00088" />
+    <callcenter id="00089" name="00089" />
+    <callcenter id="00090" name="00090" />
+    <callcenter id="00091" name="00091" />
+    <callcenter id="00092" name="00092" />
+    <callcenter id="00093" name="00093" />
+    <callcenter id="00094" name="00094" />
+    <callcenter id="00095" name="00095" />
+    <callcenter id="00096" name="00096" />
+    <callcenter id="00097" name="00097" />
+    <callcenter id="00098" name="00098" />
+    <callcenter id="00099" name="00099" />
+    <callcenter id="00100" name="00100" />
+    <callcenter id="00101" name="00101" />
+    <callcenter id="00102" name="00102" />
+    <callcenter id="00103" name="00103" />
+    <callcenter id="00104" name="00104" />
+    <callcenter id="00105" name="00105" />
+    <callcenter id="00106" name="00106" />
+    <callcenter id="00107" name="00107" />
+    <callcenter id="00108" name="00108" />
+    <callcenter id="00109" name="00109" />
+    <callcenter id="00110" name="00110" />
+    <callcenter id="00111" name="00111" />
+    <callcenter id="00112" name="00112" />
+    <callcenter id="00113" name="00113" />
+    <callcenter id="00114" name="00114" />
+    <callcenter id="00115" name="00115" />
+    <callcenter id="00116" name="00116" />
+    <callcenter id="00117" name="00117" />
+    <callcenter id="00118" name="00118" />
+    <callcenter id="00119" name="00119" />
+    <callcenter id="00120" name="00120" />
+    <callcenter id="00121" name="00121" />
+    <callcenter id="00122" name="00122" />
+    <callcenter id="00123" name="00123" />
+    <callcenter id="00124" name="00124" />
+    <callcenter id="00125" name="00125" />
+    <callcenter id="00126" name="00126" />
+    <callcenter id="00127" name="00127" />
+    <callcenter id="00128" name="00128" />
+    <callcenter id="00129" name="00129" />
+    <callcenter id="00130" name="00130" />
+    <callcenter id="00131" name="00131" />
+    <callcenter id="00132" name="00132" />
+    <callcenter id="00133" name="00133" />
+    <callcenter id="00134" name="00134" />
+    <callcenter id="00135" name="00135" />
+    <callcenter id="00136" name="00136" />
+    <callcenter id="00137" name="00137" />
+    <callcenter id="00138" name="00138" />
+    <callcenter id="00139" name="00139" />
+    <callcenter id="00140" name="00140" />
+    <callcenter id="00141" name="00141" />
+    <callcenter id="00142" name="00142" />
+    <callcenter id="00143" name="00143" />
+    <callcenter id="00144" name="00144" />
+    <callcenter id="00145" name="00145" />
+    <callcenter id="00146" name="00146" />
+    <callcenter id="00147" name="00147" />
+    <callcenter id="00148" name="00148" />
+    <callcenter id="00149" name="00149" />
+    <callcenter id="00150" name="00150" />
+    <callcenter id="00151" name="00151" />
+    <callcenter id="00152" name="00152" />
+    <callcenter id="00153" name="00153" />
+    <callcenter id="00154" name="00154" />
+    <callcenter id="00155" name="00155" />
+    <callcenter id="00156" name="00156" />
+    <callcenter id="00157" name="00157" />
+    <callcenter id="00158" name="00158" />
+    <callcenter id="00159" name="00159" />
+    <callcenter id="00160" name="00160" />
+    <callcenter id="00161" name="00161" />
+    <callcenter id="00162" name="00162" />
+    <callcenter id="00163" name="00163" />
+    <callcenter id="00164" name="00164" />
+    <callcenter id="00165" name="00165" />
+    <callcenter id="00166" name="00166" />
+    <callcenter id="00167" name="00167" />
+    <callcenter id="00168" name="00168" />
+    <callcenter id="00169" name="00169" />
+    <callcenter id="00170" name="00170" />
+    <callcenter id="00171" name="00171" />
+    <callcenter id="00172" name="00172" />
+    <callcenter id="00173" name="00173" />
+    <callcenter id="00174" name="00174" />
+    <callcenter id="00175" name="00175" />
+    <callcenter id="00176" name="00176" />
+    <callcenter id="00177" name="00177" />
+    <callcenter id="00178" name="00178" />
+    <callcenter id="00179" name="00179" />
+    <callcenter id="00180" name="00180" />
+    <callcenter id="00181" name="00181" />
+    <callcenter id="00182" name="00182" />
+    <callcenter id="00183" name="00183" />
+    <callcenter id="00184" name="00184" />
+    <callcenter id="00185" name="00185" />
+    <callcenter id="00186" name="00186" />
+    <callcenter id="00187" name="00187" />
+    <callcenter id="00188" name="00188" />
+    <callcenter id="00189" name="00189" />
+    <callcenter id="00190" name="00190" />
+    <callcenter id="00191" name="00191" />
+    <callcenter id="00192" name="00192" />
+    <callcenter id="00193" name="00193" />
+    <callcenter id="00194" name="00194" />
+    <callcenter id="00195" name="00195" />
+    <callcenter id="00196" name="00196" />
+    <callcenter id="00197" name="00197" />
+    <callcenter id="00198" name="00198" />
+    <callcenter id="00199" name="00199" />
+    <callcenter id="00200" name="00200" />
+    <callcenter id="00201" name="00201" />
+    <callcenter id="00202" name="00202" />
+    <callcenter id="00203" name="00203" />
+    <callcenter id="00204" name="00204" />
+    <callcenter id="00205" name="00205" />
+    <callcenter id="00206" name="00206" />
+    <callcenter id="00207" name="00207" />
+    <callcenter id="00208" name="00208" />
+    <callcenter id="00209" name="00209" />
+    <callcenter id="00210" name="00210" />
+    <callcenter id="00211" name="00211" />
+    <callcenter id="00212" name="00212" />
+    <callcenter id="00213" name="00213" />
+    <callcenter id="00214" name="00214" />
+    <callcenter id="00215" name="00215" />
+    <callcenter id="00216" name="00216" />
+    <callcenter id="00217" name="00217" />
+    <callcenter id="00218" name="00218" />
+    <callcenter id="00219" name="00219" />
+    <callcenter id="00220" name="00220" />
+    <callcenter id="00221" name="00221" />
+    <callcenter id="00222" name="00222" />
+    <callcenter id="00223" name="00223" />
+    <callcenter id="00224" name="00224" />
+    <callcenter id="00225" name="00225" />
+    <callcenter id="00226" name="00226" />
+    <callcenter id="00227" name="00227" />
+    <callcenter id="00228" name="00228" />
+    <callcenter id="00229" name="00229" />
+    <callcenter id="00230" name="00230" />
+    <callcenter id="00231" name="00231" />
+    <callcenter id="00232" name="00232" />
+    <callcenter id="00233" name="00233" />
+    <callcenter id="00234" name="00234" />
+    <callcenter id="00235" name="00235" />
+    <callcenter id="00236" name="00236" />
+    <callcenter id="00237" name="00237" />
+    <callcenter id="00238" name="00238" />
+    <callcenter id="00239" name="00239" />
+    <callcenter id="00240" name="00240" />
+    <callcenter id="00241" name="00241" />
+    <callcenter id="00242" name="00242" />
+    <callcenter id="00243" name="00243" />
+    <callcenter id="00244" name="00244" />
+    <callcenter id="00245" name="00245" />
+    <callcenter id="00246" name="00246" />
+    <callcenter id="00247" name="00247" />
+    <callcenter id="00248" name="00248" />
+    <callcenter id="00249" name="00249" />
+    <callcenter id="00250" name="00250" />
+    <callcenter id="99999" name="99999" />
+  </callcenters>
+  <agents>
+    <agent id="00001" name="00001" />
+    <agent id="00002" name="00002" />
+    <agent id="00003" name="00003" />
+    <agent id="00004" name="00004" />
+    <agent id="00005" name="00005" />
+    <agent id="00006" name="00006" />
+    <agent id="00007" name="00007" />
+    <agent id="00008" name="00008" />
+    <agent id="00009" name="00009" />
+    <agent id="00010" name="00010" />
+    <agent id="00011" name="00011" />
+    <agent id="00012" name="00012" />
+    <agent id="00013" name="00013" />
+    <agent id="00014" name="00014" />
+    <agent id="00015" name="00015" />
+    <agent id="00016" name="00016" />
+    <agent id="00017" name="00017" />
+    <agent id="00018" name="00018" />
+    <agent id="00019" name="00019" />
+    <agent id="00020" name="00020" />
+    <agent id="00021" name="00021" />
+    <agent id="00022" name="00022" />
+    <agent id="00023" name="00023" />
+    <agent id="00024" name="00024" />
+    <agent id="00025" name="00025" />
+    <agent id="00026" name="00026" />
+    <agent id="00027" name="00027" />
+    <agent id="00028" name="00028" />
+    <agent id="00029" name="00029" />
+    <agent id="00030" name="00030" />
+    <agent id="00031" name="00031" />
+    <agent id="00032" name="00032" />
+    <agent id="00033" name="00033" />
+    <agent id="00034" name="00034" />
+    <agent id="00035" name="00035" />
+    <agent id="00036" name="00036" />
+    <agent id="00037" name="00037" />
+    <agent id="00038" name="00038" />
+    <agent id="00039" name="00039" />
+    <agent id="00040" name="00040" />
+    <agent id="00041" name="00041" />
+    <agent id="00042" name="00042" />
+    <agent id="00043" name="00043" />
+    <agent id="00044" name="00044" />
+    <agent id="00045" name="00045" />
+    <agent id="00046" name="00046" />
+    <agent id="00047" name="00047" />
+    <agent id="00048" name="00048" />
+    <agent id="00049" name="00049" />
+    <agent id="00050" name="00050" />
+    <agent id="00051" name="00051" />
+    <agent id="00052" name="00052" />
+    <agent id="00053" name="00053" />
+    <agent id="00054" name="00054" />
+    <agent id="00055" name="00055" />
+    <agent id="00056" name="00056" />
+    <agent id="00057" name="00057" />
+    <agent id="00058" name="00058" />
+    <agent id="00059" name="00059" />
+    <agent id="00060" name="00060" />
+    <agent id="00061" name="00061" />
+    <agent id="00062" name="00062" />
+    <agent id="00063" name="00063" />
+    <agent id="00064" name="00064" />
+    <agent id="00065" name="00065" />
+    <agent id="00066" name="00066" />
+    <agent id="00067" name="00067" />
+    <agent id="00068" name="00068" />
+    <agent id="00069" name="00069" />
+    <agent id="00070" name="00070" />
+    <agent id="00071" name="00071" />
+    <agent id="00072" name="00072" />
+    <agent id="00073" name="00073" />
+    <agent id="00074" name="00074" />
+    <agent id="00075" name="00075" />
+    <agent id="00076" name="00076" />
+    <agent id="00077" name="00077" />
+    <agent id="00078" name="00078" />
+    <agent id="00079" name="00079" />
+    <agent id="00080" name="00080" />
+    <agent id="00081" name="00081" />
+    <agent id="00082" name="00082" />
+    <agent id="00083" name="00083" />
+    <agent id="00084" name="00084" />
+    <agent id="00085" name="00085" />
+    <agent id="00086" name="00086" />
+    <agent id="00087" name="00087" />
+    <agent id="00088" name="00088" />
+    <agent id="00089" name="00089" />
+    <agent id="00090" name="00090" />
+    <agent id="00091" name="00091" />
+    <agent id="00092" name="00092" />
+    <agent id="00093" name="00093" />
+    <agent id="00094" name="00094" />
+    <agent id="00095" name="00095" />
+    <agent id="00096" name="00096" />
+    <agent id="00097" name="00097" />
+    <agent id="00098" name="00098" />
+    <agent id="00099" name="00099" />
+    <agent id="00100" name="00100" />
+  </agents>
+</callcenterlist>

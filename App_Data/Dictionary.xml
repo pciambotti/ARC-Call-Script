@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<historylog>
+  <groups>
+    <group id="10300010" name="User" />
+    <group id="10300020" name="Application" />
+    <group id="10300030" name="Emails" />
+    <group id="10300040" name="Call Centers" />
+    <group id="10300050" name="Do Not Email" />
+    <group id="10300060" name="Do Not Call" />
+  </groups>
+
+  <addresstype>
+    <type id="10400010" name="Business Address" />
+    <type id="10400020" name="Legal Address" />
+  </addresstype>
+
+  <applicationstatus>
+    <status id="10001010" name="Created" />
+    <status id="10001020" name="Updated" />
+    <status id="10001030" name="Submitted" />
+    <status id="10001040" name="Pended" />
+    <status id="10001050" name="Approved" />
+    <status id="10001060" name="Declined" />
+    <status id="10001070" name="Installed" />
+    <status id="10001080" name="Rejected" />
+    <status id="10001090" name="Cancelled" />
+    <status id="10001100" name="Test" />
+  </applicationstatus>
+
+  <emailstatus>
+    <status id="10002010" name="Sent" />
+    <status id="10002020" name="Clicked" />
+    <status id="10002030" name="Bounced" />
+    <status id="10002040" name="Registered" />
+    <status id="10002050" name="Converted" />
+    <status id="10002060" name="Unsubscribed" />
+    <status id="10002070" name="Dead" />
+    <status id="10002100" name="Test" />
+  </emailstatus>
+
+  <callcenterstatus>
+    <status id="10500010" name="Active" />
+    <status id="10500020" name="Inactive" />
+    <status id="10500030" name="Blocked" />
+    <status id="10500100" name="Test" />
+  </callcenterstatus>
+
+  <applicationactions>
+    <action id="10100010" name="Application Created" />
+    <action id="10100020" name="Application Updated" />
+    <action id="10100030" name="Application Submitted" />
+    <action id="10100040" name="Application Completed" />
+    <action id="10100050" name="Application Accepted" />
+    <action id="10100060" name="Application Rejected" />
+    <action id="10100070" name="Application Removed" />
+    <action id="10100080" name="Application Signing" />
+    <action id="10100090" name="Application Signed" />
+    <action id="10100100" name="Application Status Change" />
+    <action id="10101010" name="Email Sent" />
+    <action id="10101020" name="Email Opened" />
+    <action id="10101030" name="Email Record Updated" />
+    <action id="10102010" name="Email Unsubscribed" />
+    <action id="10102020" name="Email Unsubscribed remove" />
+  </applicationactions>
+
+  <useractions>
+    <action id="10200010" name="Login Successful" />
+    <action id="10200020" name="Failed Login" />
+    <action id="10200030" name="User locked" />
+    <action id="10200040" name="User banned" />
+    <action id="10200050" name="User deleted" />
+    <action id="10200060" name="Password updated" />
+    <action id="10200070" name="Password reset" />
+    <action id="10200080" name="Details updated (specific?)" />
+    <action id="10200090" name="User created" />
+  </useractions>
+
+  <callcenteractions>
+    <action id="10201010" name="Call Center Created" />
+    <action id="10201020" name="Call Center Updated" />
+    <action id="10201030" name="Call Center Set Active" />
+    <action id="10201040" name="Call Center Set Inactive" />
+  </callcenteractions>
+</historylog>
