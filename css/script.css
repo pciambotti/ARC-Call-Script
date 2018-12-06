@@ -1,0 +1,318 @@
+/* CSS Document */
+/* General CSS - Start */
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	color: #000000;
+	font-size: 12px;
+	/*min-height: 4400px;*/
+	z-index: 1;
+}
+/* General CSS - End */
+/* PageContainer CSS */
+#container
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+}
+/* Header CSS */
+#header
+{
+	width: 1178px;
+	margin: 0px auto;
+}
+#header_info
+{
+	width: 973px;
+	/*height: 30px;*/
+	margin: 0px auto;
+	text-align: center;
+	font-size: 24px;
+}
+.script_header
+{
+	font-size: 18px;
+	/*height: 30px;*/
+	margin-bottom: 7px;
+}
+/* Header CSS */
+
+/* PageContainer CSS */
+/* Script */
+#script
+{
+	
+}
+.section
+{
+	border: 2px solid #3a4875;
+	min-height: 25px;
+	overflow: hidden;
+	font-size: 16px;
+}
+.section h2
+{
+	color: #FFFFFF;
+	background-color: #3a4875;
+	font-size: 12px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	height: 15px;
+}
+.section h2 span
+{
+	float: right;
+	margin-right: 15px;
+}
+.section_control
+{
+	padding: 5px 10px 5px 10px;
+	min-height: 18px;
+}
+.section_control input
+{
+	width: 100px;
+	margin-right: 15px;
+	text-align: center;
+}
+.field
+{
+	padding: 5px 10px 5px 10px;
+	min-height: 18px;
+}
+.field_input
+{
+	padding: 5px 10px 5px 10px;
+	min-height: 18px;
+
+    clear: both;
+    width: 100%;
+    border-bottom:1px solid #d1d1d1;
+}
+.field_radio
+{
+	padding: 5px 10px 5px 10px;
+	min-height: 18px;
+
+    clear: both;
+    width: 100%;
+    border-bottom:1px solid #d1d1d1;
+}
+.field_radio input
+{
+	margin-right: 5px;
+}
+.field_info
+{
+	padding: 5px 10px 5px 10px;
+	min-height: 18px;
+	width: 800px;
+}
+.field_option td
+{
+	vertical-align: top;
+}
+.field_option label
+{
+	margin-left: 5px;
+}
+.field_option_group
+{
+	font-weight: bold;
+	background-color: Yellow;
+	color: Black;
+}
+.single_line
+{
+	width: 875px;
+	margin: 5px 0px 0px 0px;
+}
+.line_label
+{
+	float: left;
+	width: 295px;
+	min-height: 5px;
+	margin-right: 5px;
+}
+.line_input
+{
+	float: left;
+}
+.line_input input
+{
+	width: 300px;
+}
+.line_radio
+{
+	float: left;
+}
+.line_radio input
+{
+	margin-right: 5px;
+}
+
+.line_required
+{
+	color: Red;
+	margin-left: 3px;
+}
+.line_note
+{
+	float: left;
+	color: Blue;
+	font-style: italic;
+}
+.required:after
+{
+	content: " *";
+	min-height: 1px;
+	height: 1px;
+	color: Red;
+}
+/* Script */
+.agent_note
+{
+	color: Blue;
+	font-style: italic;
+}
+.red
+{
+	font-size: 18px;
+	color: Red;
+	font-weight: bold;
+}
+.hide
+{
+	display: none;
+	visibility: hidden;
+}
+.show
+{
+	visibility: visible;
+}
+.left10
+{
+	margin-left: 10px;
+}
+.clearfix
+{
+	clear: both;
+}
+.clearfix:after
+{
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+#noscript
+{
+	margin: 50px auto;
+	color: Red;
+	font-size: 24px;
+	font-weight: bold;
+	width: 485px;
+	
+}
+.placeholder
+{
+	color: #AAAAAA;
+}
+.bold
+{
+	font-weight: bold;
+}
+.table_list
+{
+	margin: 0px;
+}
+.table_list td
+{
+	margin: 0px;
+}
+.table_list tr
+{
+	margin: 0px;
+}
+.table_list input
+{
+	width: 25px;
+}
+.table_list label
+{
+	width: 25px;
+}
+
+
+/******* Additional for grid ************************/
+
+.gridheader
+{
+    background-color: #243E90;
+    color: #FFFFFF;
+    font-size: 12px;
+    height: 31px;
+}
+
+.gridheader th, .gridheader td {
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.gridItem {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.gridItem td, .gridAltItem td, .gridEditItem2 td {
+    border-bottom: 1px solid #000000;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.gridItem a, .gridAltItem a, .gridEditItem2 a {
+    color: #1869B8;
+    text-decoration: none;
+}
+
+.gridInvoiceItem {
+    font-size: 12px;
+    line-height: 17px;
+}
+.gridInvoiceAltItem {
+    background-color: #CCCCCC;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+
+
+.gridInvoiceItem td, .gridInvoiceAltItem td {
+    border-bottom: 1px solid #000000;
+    border-right: 1px solid #000000;
+    padding-bottom: 0;
+    padding-left: 4px;
+    padding-top: 0;
+}
+
+
+.gridInvoiceFooter .first2, .gridInvoiceItem .first2, .gridInvoiceAltItem .first2 {
+    border-left: 1px solid #000000;
+    padding-right: 4px;
+}
+
+.HideButton  
+{
+	display:none;
+}
